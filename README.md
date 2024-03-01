@@ -23,6 +23,7 @@ console.log(filesizeConverter.bytesToMegabytes(1048576)); // Output: 1
 // Convert bytes to gigabytes
 console.log(filesizeConverter.bytesToGigabytes(1073741824)); // Output: 1
 
+```
 ## License
-```markdown
+
 License: [Apache-2.0](https://github.com/nishar-khorajiya/convert-file-size/blob/main/LICENSE)
