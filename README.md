@@ -2,10 +2,10 @@
 A lightweight Node.js package for file size conversion
 
 ## Installation
-
+```bash
 npm install filesize-converter 
 
-
+```
 ## Usage
 
 Here's an example of how to use the filesize-converter package:
