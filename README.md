@@ -9,7 +9,6 @@ npm install filesize-converter
 
 Here's an example of how to use the filesize-converter package:
 
-```javascript
 // Require the filesize-converter package
 const filesizeConverter = require('filesize-converter');
 
