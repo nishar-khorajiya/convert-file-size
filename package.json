@@ -1,0 +1,27 @@
+{
+  "name": "filesize-converter",
+  "version": "1.0.0",
+  "description": "A lightweight Node.js package for file size conversion",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishar-khorajiya/convert-file-size.git"
+  },
+  "keywords": [
+    "file-size-conversion",
+    "utility",
+    "node.js",
+    "file-size",
+    "conversion",
+    "filesize"
+  ],
+  "author": "Nishar Khorajiya",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nishar-khorajiya/convert-file-size/issues"
+  },
+  "homepage": "https://github.com/nishar-khorajiya/convert-file-size#readme"
+}
