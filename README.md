@@ -3,7 +3,7 @@ A lightweight Node.js package for file size conversion
 
 ## Installation
 ```bash
-npm install filesize-converter 
+npm install convert-file-size 
 
 ```
 ## Usage

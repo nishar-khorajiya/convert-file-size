@@ -1,5 +1,5 @@
 {
-  "name": "filesize-converter",
+  "name": "convert-file-size",
   "version": "1.0.0",
   "description": "A lightweight Node.js package for file size conversion",
   "main": "index.js",
@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/nishar-khorajiya/convert-file-size/issues"
   },
-  "homepage": "https://github.com/nishar-khorajiya/convert-file-size#readme"
+  "homepage": "https://github.com/nishar-khorajiya/convert-file-size#readme",
+  "dependencies": {
+    "i": "^0.3.7",
+    "npm": "^10.5.0"
+  }
 }
